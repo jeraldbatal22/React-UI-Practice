@@ -19,3 +19,14 @@ Mobile View
 Modal Mobile View
 
 ![image](https://user-images.githubusercontent.com/80327905/147441138-f7f8b61b-54e3-43e5-b7ad-c30d1ccc7043.png)
+
+
+# 2. Landing Page Newbie
+
+<h1>Web view</h1>
+
+![image](https://user-images.githubusercontent.com/80327905/140526652-c57071b1-c71d-4b68-9b36-fe4d31639db9.png)
+
+<h1>Mobile view</h1>
+
+![image](https://user-images.githubusercontent.com/80327905/140526778-f14e6c68-4a95-4ed5-a465-a33334068d02.png)
