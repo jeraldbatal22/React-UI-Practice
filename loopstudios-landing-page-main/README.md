@@ -1,4 +1,4 @@
-Web view 
+<h1>Web view</h1>
 
 ![image](https://user-images.githubusercontent.com/80327905/147558913-0171b393-f026-4716-b776-1fd08b9e635c.png)
 
@@ -6,7 +6,7 @@ Web view
 
 ![image](https://user-images.githubusercontent.com/80327905/147558971-43ea5a20-e527-47ba-9ef9-d68098557e4f.png)
 
-Mobile view 
+<h1>Mobile view</h1> 
 
 ![image](https://user-images.githubusercontent.com/80327905/147559035-802a8f46-8a2b-4176-88f8-8959c62da70c.png)
 
