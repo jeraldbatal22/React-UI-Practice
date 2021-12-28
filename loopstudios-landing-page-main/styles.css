@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Heebo:wght@300&family=Josefin+Sans:ital,wght@1,300&family=Kumbh+Sans:wght@800&family=Shippori+Antique&display=swap');
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #ffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width:1070px ;
+  margin: 0 auto;
+}
